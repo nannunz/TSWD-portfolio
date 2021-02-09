@@ -12,7 +12,7 @@ My goal is to master, or at least get a solid handle on, the art of telling a st
 
 Aside from developing a better intuition for color and simplicity, I hope to explore more unique methods of data visualization! While pie charts certainly have their place, they can be easy to dismiss. I hope to develop a better sense of what visuals readers might find compelling enough to actually process (without going overboard or manipulating the scale for dramatic effect), and if possible, do it in a way that is subtle enough that they won't need to spend too much time dwelling on the interpretation.  
 
-In short, I want to move away from being someone who embodies the <a href=”https://i.kym-cdn.com/photos/images/newsfeed/001/018/866/e44.png”>"Graphic Design is My Passion"</a> internet meme to someone who, with enough patience and effort, can help create visualizations that truly speak to people. 
+In short, I want to move away from being someone who embodies the <a href=https://i.kym-cdn.com/photos/images/newsfeed/001/018/866/e44.png>"Graphic Design is My Passion"</a> internet meme to someone who, with enough patience and effort, can help create visualizations that truly speak to people. 
 
 # Portfolio 
 You can check my work out here! https://nannunz.github.io/annunziata-portfolio/
