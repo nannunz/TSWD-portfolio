@@ -1,5 +1,5 @@
 # annunziata-portfolio 
-Data visualizations for 94870-A3 - Telling Stories with Data
+Data visualizations for 94870-A3 - Telling Stories with Data // https://nannunz.github.io/annunziata-portfolio/
 
 
 # Who am I?
@@ -17,4 +17,4 @@ Finally, it would be wonderful to familiarize myself with Tableau, as it will se
 In short, I want to move away from being someone who embodies the <a href="https://i.kym-cdn.com/photos/images/newsfeed/001/018/866/e44.png">"Graphic Design is My Passion"</a> internet meme to someone who, with enough patience and effort, can help create visualizations that truly speak to people. 
 
 # Portfolio 
-You can check my work out here! https://nannunz.github.io/annunziata-portfolio/
+You can check my work out here! 
