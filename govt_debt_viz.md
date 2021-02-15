@@ -7,7 +7,7 @@
 
 # Do Large Economies Mean Larger Debts? Not Necessarily. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5299305"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-One might suspect that our world's largest economies are the ones who hold the most debt -- however, many of these nations hold debts that, proportionally, are in line with countries of smaller economic scale. One notable exception, however, would be Japan. Despite having the third-largest economy in the world, its proportion of debt dwarfs that of peer nations like Germany or the United Kingdom. 
+One might suspect that our world's largest economies are the ones who hold the most debt -- however, many of the world's largest economic players proportionally hold debts similar to those with countries of smaller economic scale, such as Austria or Canada. One notable exception, however, would be Japan. Despite having the third-largest economy in the world, its proportion of debt dwarfs that of peer nations like Germany or the United Kingdom. 
 
 
 # Reflecting on Different Visualization Methods 
