@@ -31,7 +31,7 @@ Universally disliked, with the exception of the individual who felt strongly in 
 
 # The Final Product 
 
-<div class="flourish-embed flourish-map" data-src="visualisation/5360090"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-map" data-src="visualisation/5360090"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
 
 Ultimately, I ended up redesigning Politico’s line chart into more of a heat map, utilizing Bloomberg’s data to make calculations that created greater distinctions between how states were faring. In the original representation, Politico pulled directly from Bloomberg’s data to map out the proportion of individuals who had received at least one Covid vaccine, making it look like states like Alaska and West Virginia were leading the rest of the country in vaccinations. 
 However, what is ultimately more important in this representation is the proportion of residents who achieve <i>immunity</i>. Using Bloomberg’s data, I made a few small calculations so we could instead look at the follow through rate for vaccinations – rather than looking at the proportion of people who received their second shot, I wanted to analyze (1) the difference between that state’s vaccination rate and the national average and (2) the percentage of residents who were actually completing the full vaccination process. This method also allows us to consider the size of the population of each state and take a more even measurement, rather than claiming that states have been exceptional vaccinators when, in reality, they have smaller populations overall. To make the contrast between states more evident, I broke the ranges down by quartile. 
