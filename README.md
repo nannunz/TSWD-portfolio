@@ -18,3 +18,5 @@ In short, I want to move away from being someone who embodies the <a href="https
 
 # Portfolio 
 <a href="https://nannunz.github.io/annunziata-portfolio/govt_debt_viz"><b>Visualizing Government Debt</b></a>
+
+<a href="https://nannunz.github.io/annunziata-portfolio/politico_redraw.html"><b>Critique through Redesign: Politico's Covid-19 Line Graph</b></a>
