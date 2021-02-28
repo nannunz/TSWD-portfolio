@@ -35,7 +35,7 @@ When outlining the experience of the average gig economy worker, there are a few
 
 I have not yet sketched out the graphics for the readers’ potential impact, as I have not settled on an approach to it just yet. Some useful feedback I have gotten in class has been that individuals would like to see the cost of improving policies on them as the consumer, and would appreciate reassurance that it would not create services out of their own price range. 
 
-If the data are available, I would also like to display the differences between those who supported policies like California’s Proposition 22, where these companies poured immense amounts of funding into passing this initiative. I am open to suggestions for our call to action!  
+If the data are available, I would also like to display the differences between those who supported policies like California’s Proposition 22 (primarily the companies themselves, who poured immense amounts of funding into passing this initiative) and those in opposition to it (predominantly workers). It would be interesting to see the disparity in funding on both sides of this particular proposition. I am, however, open to suggestions for the call to action. 
 
 # Method and Medium 
 I will be using Shorthand to prepare the final project – it feels like the most intuitive tool that we’ve seen thus far, and taking the time to learn how to use it would be more efficient use of my time than scoping out other potential platforms. 
