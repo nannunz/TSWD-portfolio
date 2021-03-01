@@ -3,7 +3,6 @@
 The gig economy and service work have expanded significantly in the past few decades, rising to fill a gap in employment as more “classic” careers like manufacturing become untenable. 
 
 My one sentence summary of the narrative is currently: “Everyone loves gig economy workers until they start asking for labor rights.” I want to explore the average worker experience in the gig economy and help the reader understand (1) how robust labor rights protect us all and (2) how their individual actions can push us towards creating a more equitable labor force. I would like my target audience, who I am envisioning as everyday users of these services, to understand that gig economy work is not a panacea and that the convenience of the services they provide has a human cost. 
-</break>
 
 With regards to structure, I am hoping to follow this narrative arc: 
 
