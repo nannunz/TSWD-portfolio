@@ -1,6 +1,6 @@
 # The Framework 
 
-I decided to <a href=“https://preview.shorthand.com/mupp9nbgzarLK6jj”><b>create a draft</b></a> of the final project using Shorthand so I could get a better feel for how to use the site’s many functions. It is certainly challenging to see how it will all fit together (and I’m realizing how useful it would be if I were more fluent in HTML), but I appreciate how intuitive it is! 
+I decided to <a href="https://preview.shorthand.com/mupp9nbgzarLK6jj”><b>create a draft</b></a> of the final project using Shorthand so I could get a better feel for how to use the site’s many functions. It is certainly challenging to see how it will all fit together (and I’m realizing how useful it would be if I were more fluent in HTML), but I appreciate how intuitive it is! 
 
 While building out this draft, I realized just how challenging it was to isolate data about gig economy workers from that of other contingent workers—much of the data collected are quite new and missing key information (such as demographics) that would be easier to find if studying another group of workers. 
 
