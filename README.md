@@ -23,3 +23,4 @@ In short, I want to move away from being someone who embodies the <a href="https
 
 <a href="https://nannunz.github.io/annunziata-portfolio/final_project_part_1.html"><b>Final Project, Part I</b></a>
 
+<a href="https://nannunz.github.io/annunziata-portfolio/final_project_part_2.html"><b>Final Project, Part 2</b></a>
