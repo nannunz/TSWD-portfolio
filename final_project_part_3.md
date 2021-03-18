@@ -23,12 +23,9 @@
 <h4>&ldquo;Who participates in the Gig Economy?&rdquo; Gig Economy Data Hub. n.d. Accessed on March 17, 2021. <a href="https://www.gigeconomydata.org/basics/who-participates-gig-economy">https://www.gigeconomydata.org/basics/who-participates-gig-economy</a>.</h4>
 <p>All photos are non-copyrighted and found on <a href="https://www.pexels.com/"><strong>Pexels</strong></a>.&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <a href="https://nannunz.github.io/annunziata-portfolio/final_project_part_1.html"><b>Part I of This Project</b></a>
 
 <a href="https://nannunz.github.io/annunziata-portfolio/final_project_part_2.html"><b>Part II of This Project</b></a>
 
-<a href="https://nannunz.github.io/annunziata-portfolio">Return to my main portfolio page.</a>
+<a href="https://nannunz.github.io/annunziata-portfolio"><b>Return to my main portfolio page.</b></a>
