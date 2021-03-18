@@ -17,12 +17,17 @@ Finally, it would be wonderful to familiarize myself with Tableau, as it will se
 In short, I want to move away from being someone who embodies the <a href="https://i.kym-cdn.com/photos/images/newsfeed/001/018/866/e44.png">"Graphic Design is My Passion"</a> internet meme to someone who, with enough patience and effort, can help create visualizations that truly speak to people. 
 
 # Portfolio 
-<a href="https://nannunz.github.io/annunziata-portfolio/govt_debt_viz"><b>Visualizing Government Debt</b></a>
 
-<a href="https://nannunz.github.io/annunziata-portfolio/politico_redraw.html"><b>Critique through Redesign: Politico's Covid-19 Line Graph</b></a>
+<a href="https://carnegiemellon.shorthandstories.com/all-the-work-none-of-the-stability-/index.html"><b>All the Work, None of the Stability: The Gig Economy Experience</b></a>
+
+<a href="https://nannunz.github.io/annunziata-portfolio/final_project_part_1.html"><b>Final Project, Part I</b></a>
 
 <a href="https://nannunz.github.io/annunziata-portfolio/final_project_part_1.html"><b>Final Project, Part I</b></a>
 
 <a href="https://nannunz.github.io/annunziata-portfolio/final_project_part_2.html"><b>Final Project, Part 2</b></a>
 
 <a href="https://nannunz.github.io/annunziata-portfolio/final_project_part_3.html"><b>Final Project, Part 3</b></a>
+
+<a href="https://nannunz.github.io/annunziata-portfolio/govt_debt_viz"><b>Visualizing Government Debt</b></a>
+
+<a href="https://nannunz.github.io/annunziata-portfolio/politico_redraw.html"><b>Critique through Redesign: Politico's Covid-19 Line Graph</b></a>
