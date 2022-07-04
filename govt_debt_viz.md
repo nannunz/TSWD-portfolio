@@ -22,4 +22,4 @@ I ultimately chose the line graph with highlights because I felt it allowed me t
 
 In the future, and with the right data set, a Hans Rosling graph might be more effective than a simple line graph at conveying changes over time. I will note that this exercise emphasized the value of clean, well-organized data. Creating the final visual was impossible with the initial .csv file from the OECD due to its organization -- only after manually reorganizing the data myself did Flourish recognize the input values I hoped to provide. I had not necessarily thought about the limitations of the data itself prior to the exercise, nor how others may clean it to suit their individual needs (for example, this OECD data was obtained from their own "National Accounts at a Glance", but the exact data they used for their calculations is buried beneath a mountain of other information), but this will be an excellent flag as I begin to gather research for my final project.
 
-<a href="https://nannunz.github.io/annunziata-portfolio/"><b>Return to the main portfolio page</b></a>
+<a href="https://nannunz.github.io/TSWD-portfolio/"><b>Return to the main portfolio page</b></a>
