@@ -72,4 +72,4 @@ I will also be sure to create a more cohesive color scheme throughout – one us
 
 The framing of the content, however, will need some work. I will rearrange the information to create a greater sense of thematic cohesion; include absolute numbers when they would be appropriate or helpful (particularly around whatever demographic information I am able to find); and ensure that the text provides the necessary scaffolding to create greater cohesion between disparate elements. In addition, I will frame the narrative with the end goal of “classifying gig economy workers as employees” in mind, such that the call to action is almost obvious upon arriving at the end of the presentation. My call to action will also include both personal and legislative approaches to rectifying the problem. 
 
-<a href="https://nannunz.github.io/annunziata-portfolio">Return to my main portfolio page.</a>
+<a href="https://nannunz.github.io/TSWD-portfolio">Return to my main portfolio page.</a>
