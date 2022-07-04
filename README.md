@@ -1,5 +1,5 @@
 # annunziata-portfolio 
-Data visualizations for 94870-A3 - Telling Stories with Data // https://nannunz.github.io/annunziata-portfolio/
+Data visualizations for 94870-A3 - Telling Stories with Data // https://nannunz.github.io/TSWD-portfolio/
 
 
 # Who am I?
@@ -20,12 +20,12 @@ In short, I want to move away from being someone who embodies the <a href="https
 
 <a href="https://carnegiemellon.shorthandstories.com/all-the-work-none-of-the-stability-/index.html"><b>All the Work, None of the Stability: The Gig Economy Experience</b></a>
 
-<a href="https://nannunz.github.io/annunziata-portfolio/final_project_part_3.html"><b>Final Project, Part 3</b></a>
+<a href="https://nannunz.github.io/TSWD-portfolio/final_project_part_3.html"><b>Final Project, Part 3</b></a>
 
-<a href="https://nannunz.github.io/annunziata-portfolio/final_project_part_2.html"><b>Final Project, Part 2</b></a>
+<a href="https://nannunz.github.io/TSWD-portfolio/final_project_part_2.html"><b>Final Project, Part 2</b></a>
 
-<a href="https://nannunz.github.io/annunziata-portfolio/final_project_part_1.html"><b>Final Project, Part 1</b></a>
+<a href="https://nannunz.github.io/TSWD-portfolio/final_project_part_1.html"><b>Final Project, Part 1</b></a>
 
-<a href="https://nannunz.github.io/annunziata-portfolio/govt_debt_viz"><b>Visualizing Government Debt</b></a>
+<a href="https://nannunz.github.io/TSWD-portfolio/govt_debt_viz"><b>Visualizing Government Debt</b></a>
 
-<a href="https://nannunz.github.io/annunziata-portfolio/politico_redraw.html"><b>Critique through Redesign: Politico's Covid-19 Line Graph</b></a>
+<a href="https://nannunz.github.io/TSWD-portfolio/politico_redraw.html"><b>Critique through Redesign: Politico's Covid-19 Line Graph</b></a>
