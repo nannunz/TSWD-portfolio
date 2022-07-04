@@ -48,4 +48,4 @@ In terms of an action plan, I will spend this week delving into qualitative rese
 
 With that outline, I will begin adding components to Shorthand to see (1) how I would like to structure my narrative flow and (2) identifying the types of visuals that would be most effective on that platform. 
 
-<a href="https://nannunz.github.io/annunziata-portfolio">Return to my main portfolio page.</a>
+<a href="https://nannunz.github.io/TSWD-portfolio">Return to my main portfolio page.</a>
